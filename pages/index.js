@@ -12,7 +12,7 @@ export default function Home() {
 
             <main className={styles.main}>
                 <h1 className={styles.title}>
-                    Belajar <a href='https://parsinta.com/s/en0KN?ref=paranoid-react.vercel.app'>React</a> Dari Awal
+                    Belajar <a href='https://parsinta.com/s/en0KN?ref=paranoid-reaction.vercel.app'>React</a> Dari Awal
                 </h1>
 
                 <div className={styles.description}>
@@ -28,11 +28,11 @@ export default function Home() {
                         react course.
                     </p>
                     <code className={styles.code}>
-                        <a href='https://paranoid-react.vercel.app/api/users' target='_blank' rel='noopener noreferrer'>
+                        <a href='https://paranoid-reaction.vercel.app/api/users' target='_blank' rel='noopener noreferrer'>
                             users
                         </a>
                         <span style={{ margin: '0 10px' }}>||</span>
-                        <a href='https://paranoid-react.vercel.app/api/users/10' target='_blank' rel='noopener noreferrer'>
+                        <a href='https://paranoid-reaction.vercel.app/api/users/10' target='_blank' rel='noopener noreferrer'>
                             users/10
                         </a>
                     </code>
