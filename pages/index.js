@@ -21,10 +21,10 @@ export default function Home() {
                         <a target='_blank' rel='noreferrer' href='https://twitter.com/irsyadadl'>
                             @irsyadadl
                         </a>{' '}
-                        on{' '}
+                        for{' '}
                         <a target='_blank' rel='noreferrer' href='https://parsinta.com'>
                             Parsinta
-                        </a>
+                        </a> react course.
                         .
                     </p>
                     <code className={styles.code}>
