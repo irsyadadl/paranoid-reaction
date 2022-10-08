@@ -24,8 +24,8 @@ export default function Home() {
                         for{' '}
                         <a target='_blank' rel='noreferrer' href='https://parsinta.com'>
                             Parsinta
-                        </a> react course.
-                        .
+                        </a>{' '}
+                        react course. .
                     </p>
                     <code className={styles.code}>
                         <a href='https://paranoid-react.vercel.app/api/users' target='_blank' rel='noopener noreferrer'>
